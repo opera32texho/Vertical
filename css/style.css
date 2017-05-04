@@ -1,0 +1,15 @@
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+.page-footer .row{
+	margin-bottom: 0px;
+}
+
+.submit-change{
+	text-align: center;
+	margin-top: 25px;
+}
